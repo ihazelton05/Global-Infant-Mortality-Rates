@@ -4,10 +4,10 @@ This repository was created for Professor Gotzler's English 105 course during th
 ## Contents
 This repository contains a Python notebook called `FeederFinal.ipynb` that was created using [Google Colab](https://colab.google/).
 * The notebook itself provides instructions on how to condense the raw data into a smaller, more organized data subset.
-* This `.ipynb` file allows users to follow along and create their own subset of the original, raw data.
+* Using this `.ipynb` file, users can follow the provided instructions and learn how to create their own subset of the original, raw data.
 
 The data folder of this repository consists of three `.csv` files: `Infant Mortality Rates 1 - Infant Mortality Rates 1.csv`, `Infant Mortality Rates 2.csv`, and `final_subset.csv`.
-* Both `Infant Mortality Rates 1 - Infant Mortality Rates 1.csv` and `Infant Mortality Rates 2.csv` were acquired through [The World Bank](https://data.worldbank.org/indicator/SP.DYN.IMRT.IN).
+* Both `Infant Mortality Rates 1 - Infant Mortality Rates 1.csv` and `Infant Mortality Rates 2.csv` include raw data that was acquired through [The World Bank](https://data.worldbank.org/indicator/SP.DYN.IMRT.IN).
 * The `final_subset.csv` was created according to the instructions detailed in the `FeederFinal.ipynb`. This `.csv` contains a subset of the previous `.csv` files' data, including the infant mortality rates associated with countries in varying regions of the world for comparison between the years 1960 and 2021.
 
 ## Purpose 
