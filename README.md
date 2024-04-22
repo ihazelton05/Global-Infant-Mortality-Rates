@@ -2,8 +2,9 @@
 This repository was created for Professor Gotzler's English 105 course during the Spring 2024 semester at the University of North Carolina at Chapel Hill.
 
 ## Contents
-This repository contains a Python notebook that was created using [Google Colab](https://colab.google/).
+This repository contains a Python notebook called `FeederFinal.ipynb` that was created using [Google Colab](https://colab.google/).
 * The notebook itself provides instructions on how to condense the raw data into a smaller, more organized data subset.
+* This `.ipynb` file allows users to follow along and create their own subset of the original, raw data.
 
 The data folder of this repository consists of three `.csv` files: `Infant Mortality Rates 1 - Infant Mortality Rates 1.csv`, `Infant Mortality Rates 2.csv`, and `final_subset.csv`.
 * Both `Infant Mortality Rates 1 - Infant Mortality Rates 1.csv` and `Infant Mortality Rates 2.csv` were acquired through [The World Bank](https://data.worldbank.org/indicator/SP.DYN.IMRT.IN).
