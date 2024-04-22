@@ -1,9 +1,11 @@
 # Global Infant Mortality Rates - Public Data Repository
-This is a description of my repository and its general purpose / applications
+This repository was created for Professor Gotzler's English 105 course during the Spring 2024 semester at the University of North Carolina at Chapel Hill.
 
-## Provenance (add actually descriptive title)
+## Contents
 This is an explanation of where my data comes from / how I gathered it / how users can locate the original data set.
 [Here's a link to it](#ADD URL)
-
-## Purpose (add actually descriptive title)
-
+This repository contains a Python notebook that was created using [Google Colab](https://colab.google/).
+* 
+## Purpose 
+* The purpose of this data repository is to allow users to compare past global infant mortality rates to present global infant mortality rates.
+* This data might be useful for sociologists or public health research scientists who wish to analyze global patterns in terms of infant mortality rates. In particular, these professionals can determine how global events have affected and continue to affect these patterns.
