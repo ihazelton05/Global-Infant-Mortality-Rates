@@ -10,6 +10,11 @@ The data folder of this repository consists of three `.csv` files: `Infant Morta
 * Both `Infant Mortality Rates 1 - Infant Mortality Rates 1.csv` and `Infant Mortality Rates 2.csv` include raw data that was acquired through [The World Bank](https://data.worldbank.org/indicator/SP.DYN.IMRT.IN).
 * The `final_subset.csv` was created according to the instructions detailed in the `FeederFinal.ipynb`. This `.csv` contains a subset of the previous `.csv` files' data, including the infant mortality rates associated with countries in varying regions of the world for comparison between the years 1960 and 2021.
 
+The data.viz folder of this repository consists of two files: `data_viz.csv` and `3Xt8x-global-infant-mortality-rates-by-region.png`.
+* The `data_viz.csv` was created from the `final_subset.csv` data as explained in the __data visualization__ section below.
+* `3Xt8x-global-infant-mortality-rates-by-region.png` is the resulting data visualization.
+
+
 ## Purpose 
 * The purpose of this data repository is to allow users to compare past global infant mortality rates to present global infant mortality rates.
 * This data might be useful for sociologists or public health research scientists who wish to analyze global patterns in terms of infant mortality rates. In particular, these professionals can determine how global events have affected and continue to affect these patterns.
