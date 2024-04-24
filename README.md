@@ -24,4 +24,5 @@ The data folder of this repository consists of three `.csv` files: `Infant Morta
 > Navigate to the "Refine" tab and select the checkmark for the "Color Key" option under "Appearance".
 > You can personalize your visualization as you wish by changing the color of the bars or the name of the chart.
 > Once you have finished, download the data visualization.
-* Now you have created a data visualization that demonstrates the differences in the mean infant mortality rate of each high-income region of the world between 1960 and 2021. 
+* Now you have created a data visualization that demonstrates the differences in the mean infant mortality rate of each high-income region of the world between 1960 and 2021.
+  ![data-viz](/3Xt8x-global-infant-mortality-rates-by-region.png)
