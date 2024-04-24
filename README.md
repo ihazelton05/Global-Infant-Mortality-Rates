@@ -30,4 +30,4 @@ The [data.viz](/data.viz) folder of this repository consists of two files: `data
 3. You can personalize your visualization as you wish by changing the color of the bars or the name of the chart.
 4. Once you have finished, download the data visualization.
 * Now you have created a data visualization that demonstrates the differences in the mean infant mortality rate of each high-income region of the world between 1960 and 2021.
-  ![data-viz](/final_subset_visual.png)
+  ![data-viz](/data.viz/final_subset_visual.png)
