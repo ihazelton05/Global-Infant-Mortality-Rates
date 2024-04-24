@@ -10,9 +10,9 @@ The data folder of this repository consists of three `.csv` files: `Infant Morta
 * Both `Infant Mortality Rates 1 - Infant Mortality Rates 1.csv` and `Infant Mortality Rates 2.csv` include raw data that was acquired through [The World Bank](https://data.worldbank.org/indicator/SP.DYN.IMRT.IN).
 * The `final_subset.csv` was created according to the instructions detailed in the `final_subset_directions.ipynb`. This `.csv` contains a subset of the previous `.csv` files' data, including the infant mortality rates associated with countries in varying regions of the world for comparison between the years 1960 and 2021.
 
-The data.viz folder of this repository consists of two files: `data_viz.csv` and `3Xt8x-global-infant-mortality-rates-by-region.png`.
+The data.viz folder of this repository consists of two files: `data_viz.csv` and `final_subset_visual.png`.
 * The `data_viz.csv` was created from the `final_subset.csv` data as explained in the __data visualization__ section below.
-* `3Xt8x-global-infant-mortality-rates-by-region.png` is the resulting data visualization.
+* `final_subset_visual.png` is the resulting data visualization.
 
 
 ## Purpose 
@@ -20,7 +20,7 @@ The data.viz folder of this repository consists of two files: `data_viz.csv` and
 * This data might be useful for sociologists or public health research scientists who wish to analyze global patterns in terms of infant mortality rates. In particular, these professionals can determine how global events have affected and continue to affect these patterns.
 
 ## Data Visualization
-* To create the same visualization as below, you must further simplify the `final_subset.csv` created through the instructions detailed in the `FeederFinal.ipynb`. This will reorganize the `final_subset.csv` data in a way that makes it easier for [Datawrapper](https://www.datawrapper.de/charts) to create an effective visualization.
+* To create the same visualization as below, you must further simplify the `final_subset.csv` created through the instructions detailed in the `final_subset_directions.ipynb`. This will reorganize the `final_subset.csv` data in a way that makes it easier for [Datawrapper](https://www.datawrapper.de/charts) to create an effective visualization.
 1. Use the following command in your Python notebook to group the included countries by region as well as to calculate the mean infant mortality for each region between 1960 and 2021: `data_viz= final_subset.groupby("Region").mean("1960", "2021")`
 2. Once you have finished this step, save your visualization data to your Google Drive using the following command: `data_viz.to_csv('gdrive/My Drive/Colab Notebooks/data_viz.csv')`
 3. Download the new `data_viz.csv` to your computer so that you can use it later to create your data visualization.
