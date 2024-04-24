@@ -35,4 +35,4 @@ The [data.viz](/data.viz) folder of this repository consists of two files: `data
 ![data-viz](/data.viz/final_subset_visual.png)
 
 ## Acknowledgements
-This data repository is protected by the [Creative Commons Attribution 4.0 Attribution License](https://creativecommons.org/licenses/by/4.0/) and the [Open Database License](https://opendatacommons.org/licenses/odbl/summary/). For more information regarding this licensure, visit [The World Bank](https://datacatalog.worldbank.org/public-licenses#cc-by).
+This data repository is protected by the [Creative Commons International 4.0 Attribution License](https://creativecommons.org/licenses/by/4.0/) and the [Open Database License](https://opendatacommons.org/licenses/odbl/summary/). For more information regarding this licensure, visit [The World Bank](https://datacatalog.worldbank.org/public-licenses#cc-by).
