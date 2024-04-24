@@ -33,3 +33,6 @@ The [data.viz](/data.viz) folder of this repository consists of two files: `data
   > Keep in mind that this visualization represents __mean__ infant mortality rates. Because infant mortality rates typically represent the number of infant deaths per 1,000 live births, you would expect whole numbers. However, since this visual represents __mean__ infant mortality rates, a decimal is also appropriate.
 
 ![data-viz](/data.viz/final_subset_visual.png)
+
+## Acknowledgements
+This data repository is protected by the [Creative Commons Attribution 4.0 Attribution License](https://creativecommons.org/licenses/by/4.0/) and the [Open Database License](https://opendatacommons.org/licenses/odbl/summary/). For more information regarding this licensure, visit [The World Bank](https://datacatalog.worldbank.org/public-licenses#cc-by).
