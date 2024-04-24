@@ -15,3 +15,14 @@ The data folder of this repository consists of three `.csv` files: `Infant Morta
 * This data might be useful for sociologists or public health research scientists who wish to analyze global patterns in terms of infant mortality rates. In particular, these professionals can determine how global events have affected and continue to affect these patterns.
 
 ## Data Visualization
+* To create the same visualization as below, you must further simplify the `final_subset` created through the instructions detailed in the `FeederFinal.ipynb`. This will reorganize the `final_subset` data in a way that makes it easier for [Datawrapper](https://www.datawrapper.de/charts) to create an effective visualization.
+> Use the following command in your Python notebook to group the included countries by region as well as to calculate the mean infant mortality for each region between 1960 and 2021: `data_viz= final_subset.groupby("Region").mean("1960", "2021")`
+> Once you have finished this step, save your visualization data to your Google Drive using the following command: `data_viz.to_csv('gdrive/My Drive/Colab Notebooks/data_viz.csv')`
+> Download the new `data_viz.csv` to your computer so that you can use it later to create your data visualization.
+* Now that you have successfully modified your data subset, navigate to the [Datawrapper website](https://www.datawrapper.de/charts) and create the following visualization by uploading the `data_viz.csv` to the site.
+> Select the "Grouped Bars" option in the "Chart Type" tab.
+> Navigate to the "Refine" tab and select the checkmark for the "Color Key" option under "Appearance".
+> You can personalize your visualization as you wish by changing the color of the bars or the name of the chart.
+> Once you have finished, download the data visualization.
+* Now you have created a data visualization that demonstrates the differences in the mean infant mortality rate of each high-income region of the world between 1960 and 2021. 
+
