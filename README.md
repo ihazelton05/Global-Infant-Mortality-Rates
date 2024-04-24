@@ -31,4 +31,4 @@ The [data.viz](/data.viz) folder of this repository consists of two files: `data
 > 4. Once you have finished, download the data visualization.
 * Now you have created a data visualization that demonstrates the differences in the mean infant mortality rate of each high-income region of the world between 1960 and 2021.
   > Keep in mind that this visualization represents __mean__ infant mortality rates. Because infant mortality rates typically represent the number of infant deaths per 1,000 live births, you would expect whole numbers. However, since this visual represents __mean__ infant mortality rates, a decimal is also appropriate.
- ![data-viz](/data.viz/final_subset_visual.png)
+![data-viz](/data.viz/final_subset_visual.png)
