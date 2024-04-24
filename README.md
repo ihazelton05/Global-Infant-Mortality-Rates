@@ -25,9 +25,9 @@ The [data.viz](/data.viz) folder of this repository consists of two files: `data
 > 2. Once you have finished this step, save your visualization data to your Google Drive using the following command: `data_viz.to_csv('gdrive/My Drive/Colab Notebooks/data_viz.csv')`
 > 3. Download the new `data_viz.csv` to your computer so that you can use it later to create your data visualization.
 * Now that you have successfully modified your data subset, navigate to the [Datawrapper website](https://www.datawrapper.de/charts) and create the following visualization by uploading the `data_viz.csv` to the site.
-1. Select the "Grouped Bars" option in the "Chart Type" tab.
-2. Navigate to the "Refine" tab and select the checkmark for the "Color Key" option under "Appearance".
-3. You can personalize your visualization as you wish by changing the color of the bars or the name of the chart.
-4. Once you have finished, download the data visualization.
+> 1. Select the "Grouped Bars" option in the "Chart Type" tab.
+> 2. Navigate to the "Refine" tab and select the checkmark for the "Color Key" option under "Appearance".
+> 3. You can personalize your visualization as you wish by changing the color of the bars or the name of the chart.
+> 4. Once you have finished, download the data visualization.
 * Now you have created a data visualization that demonstrates the differences in the mean infant mortality rate of each high-income region of the world between 1960 and 2021.
   ![data-viz](/data.viz/final_subset_visual.png)
