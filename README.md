@@ -20,7 +20,7 @@ The data.viz folder of this repository consists of two files: `data_viz.csv` and
 * This data might be useful for sociologists or public health research scientists who wish to analyze global patterns in terms of infant mortality rates. In particular, these professionals can determine how global events have affected and continue to affect these patterns.
 
 ## Data Visualization
-* To create the same visualization as below, you must further simplify the `final_subset` created through the instructions detailed in the `FeederFinal.ipynb`. This will reorganize the `final_subset` data in a way that makes it easier for [Datawrapper](https://www.datawrapper.de/charts) to create an effective visualization.
+* To create the same visualization as below, you must further simplify the `final_subset.csv` created through the instructions detailed in the `FeederFinal.ipynb`. This will reorganize the `final_subset.csv` data in a way that makes it easier for [Datawrapper](https://www.datawrapper.de/charts) to create an effective visualization.
 > Use the following command in your Python notebook to group the included countries by region as well as to calculate the mean infant mortality for each region between 1960 and 2021: `data_viz= final_subset.groupby("Region").mean("1960", "2021")`
 > Once you have finished this step, save your visualization data to your Google Drive using the following command: `data_viz.to_csv('gdrive/My Drive/Colab Notebooks/data_viz.csv')`
 > Download the new `data_viz.csv` to your computer so that you can use it later to create your data visualization.
